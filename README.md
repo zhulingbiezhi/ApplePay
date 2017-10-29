@@ -1,6 +1,7 @@
 # ApplePay
 
 Apple payment backend attention：
+
 1、CSR文件：
 本地生成CSR文件分为RSA和ECC两种加密方式，有个勾选的选项可选择加密类型，这决定了backend解密token时的decryption type
 
